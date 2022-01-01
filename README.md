@@ -5,11 +5,11 @@
 - 📫 How to reach me: primoz.flander@gmail.com
 <!---
 | . | . | . |
-
+|-----|------|------|
 I'm a electrical engineer focused on robotics, embedded systems and AI. 
 -->
-|-----|------|------|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=primozflander&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=primozflander&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=primozflander&theme=dracula)|
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=primozflander&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=primozflander&theme=dracula)
 
 [stats]: https://github-readme-stats.vercel.app/api?username=primozflander&show_icons=true&count_private=false&theme=radical&hide=issues,commits&hide_rank=true&custom_title=primoz's%20Stats
 [hexapod]: https://hexapod.netlify.app/
